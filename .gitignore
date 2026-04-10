@@ -1,0 +1,10 @@
+cat > .gitignore <<'EOF'
+README.md
+backups/
+*backup*
+*.bak
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+EOF
