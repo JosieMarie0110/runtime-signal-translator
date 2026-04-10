@@ -45,20 +45,20 @@ For each scenario, the app helps translate the signal through four views:
 
 Security findings are often technically correct but hard to prioritize or explain. This project is meant to show a more structured way to connect runtime and cloud signals to:
 
-- risk
-- operational impact
-- stakeholder communication
-- customer value
+- Risk
+- Operational impact
+- Stakeholder communication
+- Customer value
 
 ## Use Cases
 
 This project can support:
 
-- interview preparation
-- customer success storytelling
-- technical account management conversations
-- security-to-business translation practice
-- scenario-based learning
+- Interview preparation
+- Customer success storytelling
+- Technical account management conversations
+- Security-to-business translation practice
+- Scenario-based learning
 
 
 
